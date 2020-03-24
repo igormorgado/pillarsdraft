@@ -17,9 +17,11 @@ Play the game as usual, when the rule say: Draw a card from City Deck, draw it f
 
 Each player choose a pile (in some order) until every player has the same amount of piles/packs
 
+'''
 4 players = 4 piles/packs
 3 players = 6 piles/packs
 2 players = 9 piles/packs
+'''
 
 Build a 35 card deck using these cards. Play as usual.
 
@@ -31,9 +33,11 @@ Build a 35 card deck using these cards. Play as usual.
 
 3. The next player will pick another pile/pack and choose a new card from it.
 
+'''
 4 players = Use 16 piles
 3 players = Use 12 piles (or use 15 piles for stronger decks)
 2 players = Use 8 piles (or use more piles, always even number for stronger decks)
+'''
 
 Remember that more piles takes longer for competitive building.
 
