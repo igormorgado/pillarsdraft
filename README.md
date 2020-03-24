@@ -71,7 +71,9 @@ Run the drafting to build the deck. Each player will build its own deck with 40 
 
 Play the game as usual, when the rule say: Draw a card from City Deck, draw it from your own deck.
 
-When your deck is empty and you need to draw you lose the game.
+Discarded cards are not shuffled back.
+
+Game ends when all city decks are empty
 
 ## Drafting methods
 
