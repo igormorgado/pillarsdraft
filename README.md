@@ -67,7 +67,7 @@ Instead a single deck for everyone run this program to build a group of 17 packs
 
 Pack or put each pile turned down.
 
-Run the drafting to build the deck. Each player will build its own deck with 40 cards.
+Run the drafting to build the deck. Each player will build its own deck with 35 cards.
 
 Play the game as usual, when the rule say: Draw a card from City Deck, draw it from your own deck.
 
@@ -87,7 +87,7 @@ Each player choose a pile (in some order) until every player has the same amount
 2 players = 8 piles/packs
 ```
 
-Build a 40 card deck using these cards. Play as usual.
+Build a 35 card deck using these cards. Play as usual.
 
 ### Competitive
 
