@@ -188,4 +188,10 @@ for p in range(npacks):
                             city_deck_uncommon, 4,
                             city_deck_rare, 2))
 
+
+for num, pack in enumerate(packs):
+    print(f'Pack {num+1} contents:')
+    print(', '.join([p.name for p in pack]))
+    print()
+    
 # Last pack is not even
