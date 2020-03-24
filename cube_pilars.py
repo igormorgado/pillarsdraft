@@ -195,8 +195,8 @@ for num, pack in enumerate(packs):
     print()
     
 # Print leftovers
-    print('Leftovers:')
-    print('Common: ', ', '.join([p.name for p in city_deck_common]))
-    print('Uncommon: ', ', '.join([p.name for p in city_deck_uncommon]))
-    print('Rare:', ', '.join([p.name for p in city_deck_rare]))
-    print()
+print('Leftovers:')
+print('Common: ', ', '.join([p.name for p in city_deck_common]))
+print('Uncommon: ', ', '.join([p.name for p in city_deck_uncommon]))
+print('Rare:', ', '.join([p.name for p in city_deck_rare]))
+print()
