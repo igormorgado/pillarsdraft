@@ -7,9 +7,11 @@ Instead a single deck for everyone run this program to build a group of 17 packs
 
 Pack or put each pile turned down.
 
-Run the drafting to build the deck. Each player will build its own deck with 35 cards.
+Run the drafting to build the deck. Each player will build its own deck with 40 cards.
 
 Play the game as usual, when the rule say: Draw a card from City Deck, draw it from your own deck.
+
+When your deck is empty and you need to draw you lose the game.
 
 ## Drafting methods
 
@@ -17,13 +19,13 @@ Play the game as usual, when the rule say: Draw a card from City Deck, draw it f
 
 Each player choose a pile (in some order) until every player has the same amount of piles/packs
 
-'''
+```
 4 players = 4 piles/packs
 3 players = 6 piles/packs
-2 players = 9 piles/packs
-'''
+2 players = 8 piles/packs
+```
 
-Build a 35 card deck using these cards. Play as usual.
+Build a 40 card deck using these cards. Play as usual.
 
 ### Competitive
 
@@ -33,15 +35,15 @@ Build a 35 card deck using these cards. Play as usual.
 
 3. The next player will pick another pile/pack and choose a new card from it.
 
-'''
+```
 4 players = Use 16 piles
 3 players = Use 12 piles (or use 15 piles for stronger decks)
-2 players = Use 8 piles (or use more piles, always even number for stronger decks)
-'''
+2 players = Use 8 piles (or use more piles for stronger decks, always even number for balanced drafting)
+```
 
-Remember that more piles takes longer for competitive building.
+Remember that more piles takes longer for competitive building and drafting.
 
-Is recommended 30 minutes for drafting and 15 minutes for deck building.
+For experienced players, it is recommended 30 minutes for drafting and 15 minutes for deck building.
 
 Some piles will not be used. That is ok. Leave it as secret, because it can make more challeging about the opponent deck content.
 
